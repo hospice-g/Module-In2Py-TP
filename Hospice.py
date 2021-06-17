@@ -50,8 +50,8 @@ print(j)
 d = {'nom': 'Dupon','prenom':'Jacque','age':30
      
      d['prenom']= 'Jacques'
-     print(d.Keys)
-     print(d.Values)
+     print(d.keys)
+     print(d.values)
      print(d)
      print(d['prenom'], " " , d['nom'], " à " , d['age'], " ans")
      
